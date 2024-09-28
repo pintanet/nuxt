@@ -1,0 +1,11 @@
+npx nuxi@latest init sisna-gui
+[npm, Yes]
+cd sisna-gui
+npm install primevue@4.0.0-rc.2
+npm install --save-dev @primevue/nuxt-module@4.0.0-rc.2
+npm install primeicons
+npm install @primevue/themes@4.0.0-rc.2
+npm i tailwindcss-primeui
+npm install -D @nuxtjs/tailwindcss
+
+-
